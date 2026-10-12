@@ -1,0 +1,28 @@
+bilibili-api-python==17.4.2
+faster-whisper==1.2.1
+google-cloud-aiplatform==1.133.0
+google-generativeai==0.8.6
+mlx-whisper==0.4.3; sys_platform == "darwin"
+opencv-python-headless<5
+Pillow==12.3.0
+playwright==1.63.0
+psutil==7.2.2
+python-dotenv==1.2.4
+PyYAML==6.0.3
+requests==2.34.2
+rich==15.0.0
+tqdm==4.70.1
+yt-dlp==2026.8.19
+
+# Keep the Google SDK dependency graph from drifting into incompatible releases.
+google-api-core==2.25.2
+google-cloud-bigquery==3.42.3
+google-cloud-core==2.6.0
+google-cloud-resource-manager==1.18.0
+google-cloud-storage==2.19.0
+google-genai==1.75.0
+googleapis-common-protos==1.75.0
+grpc-google-iam-v1==0.14.4
+grpcio-status==1.71.2
+proto-plus==1.28.2
+protobuf==5.29.6

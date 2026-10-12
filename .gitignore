@@ -1,0 +1,24 @@
+# Local configuration and secrets
+.env
+Library/Tools/autosub/settings.json
+cookies.txt
+credentials.json
+token.json
+
+# Generated projects and logs
+Projects/
+logs/
+*.log
+gui_debug_*.txt
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+
+# Login state and browser profiles
+Library/Tools/autosub/wechat-channel-uploader/assets/
+
+# OS artifacts
+.DS_Store
+Thumbs.db

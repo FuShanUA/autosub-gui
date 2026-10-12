@@ -1,0 +1,15 @@
+{
+    "whisper_model": "large-v2",
+  "llm_model": "qwen3.7-max",
+    "llm_vendor": "Alibaba (Bailian)",
+    "style": "auto",
+    "layout": "bilingual",
+    "main_lang": "cn",
+    "cn_font": "STKaiti",
+    "en_font": "Calibri",
+    "cn_size": "60",
+    "en_size": "36",
+    "cn_color": "Gold",
+    "en_color": "White",
+    "bg_box": true
+}
